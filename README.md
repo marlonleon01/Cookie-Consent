@@ -1,9 +1,9 @@
 # Cookie-Consent
 
 ## Description
--I created this to practice my javascript
--It is a simple consent form that forces the user to fill out all the information
--It helped me practice using setTimeout and adding html dynamically with javascript
+-I created this to practice my javascript  
+-It is a simple consent form that forces the user to fill out all the information  
+-It helped me practice using setTimeout and adding html dynamically with javascript  
 
 ## Required
 -Code editor (Visual Studio Code recommended)  
